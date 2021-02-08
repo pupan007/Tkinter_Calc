@@ -1,2 +1,2 @@
 # Tkinter_Calc
-Simple Calulator made with tkinter
+Simple Calculator made with tkinter
